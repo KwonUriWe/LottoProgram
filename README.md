@@ -61,3 +61,6 @@
 ![4등](https://user-images.githubusercontent.com/59382990/83210342-90d07100-a195-11ea-9017-0c63f1bdb221.png)
 ![5등](https://user-images.githubusercontent.com/59382990/83210346-929a3480-a195-11ea-8f18-4bfa5da78c11.png)
 ![그 외](https://user-images.githubusercontent.com/59382990/83210431-cd9c6800-a195-11ea-8c2e-470dd2b76527.png)
+
+### 추후 개선해야 할 사항
+- 한 번 결과를 확인한 후 재입력 및 확인시 rankLabel과 turnLabel 등 일부 기능들이 작동하지 않아 프로세스 종료 후 재실행을 해야하는 번거로움이 있다.
