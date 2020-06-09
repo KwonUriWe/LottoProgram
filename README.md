@@ -1,6 +1,9 @@
 # LottoProgram
 ## 자동 또는 수동으로 입력한 응모 번호를 당첨 번호와 비교하여 당첨 여부를 알려주는 프로그램.
 
+### 추후 개선해야 할 사항
+- 한 번 결과를 확인한 후 재입력 및 확인시 rankLabel과 turnLabel 등 일부 기능들이 작동하지 않아 프로세스 종료 후 재실행을 해야하는 번거로움이 있다. 몇번이고 재확인 가능하도록 수정해야 한다.
+
 ### 화면 구현 및 상세 내용
 ![image](https://user-images.githubusercontent.com/59382990/83207589-8199f500-a18e-11ea-9180-82b3a10d0cdf.png)
 - lottoN  //로또 당첨 번호를 표시할 버튼 배열  
@@ -62,5 +65,3 @@
 ![5등](https://user-images.githubusercontent.com/59382990/83210346-929a3480-a195-11ea-8f18-4bfa5da78c11.png)
 ![그 외](https://user-images.githubusercontent.com/59382990/83210431-cd9c6800-a195-11ea-8c2e-470dd2b76527.png)
 
-### 추후 개선해야 할 사항
-- 한 번 결과를 확인한 후 재입력 및 확인시 rankLabel과 turnLabel 등 일부 기능들이 작동하지 않아 프로세스 종료 후 재실행을 해야하는 번거로움이 있다.
