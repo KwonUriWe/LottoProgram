@@ -2,7 +2,7 @@
 ## 자동 또는 수동으로 입력한 응모 번호를 당첨 번호와 비교하여 당첨 여부를 알려주는 프로그램.
 
 ### 화면 구현 및 상세 내용
-![image](https://user-images.githubusercontent.com/59382990/83207589-8199f500-a18e-11ea-9180-82b3a10d0cdf.png)
+![그림1](https://user-images.githubusercontent.com/59382990/85106087-924a0200-b246-11ea-94cd-3d9d58f9519d.png)
 - lottoN  //로또 당첨 번호를 표시할 버튼 배열  
 - myN  //응모할 번호를 입렬할 창 배열  
 - search  //검색 버튼
